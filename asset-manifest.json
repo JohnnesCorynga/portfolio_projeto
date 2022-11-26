@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio_erosravieroficial/static/css/main.073c9b0a.css",
+    "main.js": "/portfolio_erosravieroficial/static/js/main.adb4b319.js",
+    "static/js/787.e4868c57.chunk.js": "/portfolio_erosravieroficial/static/js/787.e4868c57.chunk.js",
+    "static/media/logo.svg": "/portfolio_erosravieroficial/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/portfolio_erosravieroficial/index.html",
+    "main.073c9b0a.css.map": "/portfolio_erosravieroficial/static/css/main.073c9b0a.css.map",
+    "main.adb4b319.js.map": "/portfolio_erosravieroficial/static/js/main.adb4b319.js.map",
+    "787.e4868c57.chunk.js.map": "/portfolio_erosravieroficial/static/js/787.e4868c57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.adb4b319.js"
+  ]
+}

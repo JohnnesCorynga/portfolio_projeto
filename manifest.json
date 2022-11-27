@@ -1,6 +1,7 @@
 {
   "short_name": "React App",
   "name": "Create React App Sample",
+  "homepage": "https://johnnescorynga.github.io/portfolio_projeto",
   "icons": [
     {
       "src": "favicon.ico",
